@@ -1,0 +1,37 @@
+*{
+    margin: 2px;
+    padding-left:5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    box-sizing: 50px;
+    background-color: aquamarine;
+    box-shadow: brown;
+    border: 2px;
+
+}
+body {
+    background-color: #333;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    margin-top: 50px;
+    color: #333;
+    width: fit-content;
+}
+.main-container{
+    width: 100vw;
+    height: 50vh;
+    border-radius: 50px;
+}
+.image-container{
+    height: 50vh;
+    border-radius: 5px;
+    width: 50vw;
+
+}
+.content-container{
+    width: 100vw;
+    height:80vh;
+    border-radius: 20px;
+    padding: 15px;
+}
+
